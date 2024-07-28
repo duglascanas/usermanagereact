@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <h1>Hola Mundo</h1>
+      <p>este es el sitio en desarrollo</p>
     </div>
   )
 }
